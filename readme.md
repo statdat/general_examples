@@ -8,4 +8,4 @@ Runs through the multilocus sequence alignment pipeline. GyrB, RpoB, and RpoD is
 Simple script to learn how SeqIO can be used to manipulate headers, descriptions, and the sequences themselves. Data provided, please change paths.
 
 ## example_GenomeQualityAssessment
-Simple example of how genome quality metrics and contamination/completeness scores can be effectively visualized.Data provided, please change paths.
+Simple example of how genome quality metrics and contamination/completeness scores can be effectively visualized. Data provided, please change paths.
