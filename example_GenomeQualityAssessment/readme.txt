@@ -1,0 +1,1 @@
+Simple example of how genome quality metrics and contamination/completeness scores can be effectively visualized.

@@ -1,0 +1,1 @@
+Simple script to learn how SeqIO can be used to manipulate headers, descriptions, and the sequences themselves.
